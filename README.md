@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khophisnow
-- 👀 I’m interested in learning all the best programming languages in the world
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in learning all the best programming languages in the world.
+- 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on  working with the best programmers and will help me in the course of acquiring my goals.
 - 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com or WhatsApp number: 0596393645.
 
