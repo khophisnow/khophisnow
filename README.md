@@ -3,6 +3,7 @@
 - 🌱 I'm done with HTML,CSS and Javascript(Full Stack Developer).
 - 🌱 Also done with Arduino.
 - 🌱 I’m currently learning python. 
+- 💞️ My dream is to become a Software Engineer.
 - 💞️ I’m looking to collaborate on  working with the best programmers and will help me in the course of acquiring my goals.
 - 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com or WhatsApp number: 0596393645.
 
