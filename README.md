@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python. 
 - 💞️ My dream is to become a Software Engineer.
 - 💞️ I’m looking to collaborate on  working with the best programmers and will help me in the course of acquiring my goals.
-- 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com or WhatsApp number: 0596393645.
+- 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com / juliusmcbrahamsomuahpb@yahoo.com or WhatsApp number: (+233) 596 393 645.
 
 <!---
 khophisnow/khophisnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
