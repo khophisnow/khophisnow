@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khophisnow
 - 👀 I’m interested in learning all the best programming languages in the world.
-- 🌱 I'm done with HTML,CSS and Javascript(front End Developer).
-- 🌱 Also done with Arduino.
+- 🌱 I'm into HTML,CSS and Javascript(front End Developer).
+- 🌱 Also into Arduino language as well.
 - 🌱 I'm also leaning with PHP and SQL(Back End Developer).
 - 🌱 I’m currently learning python. 
 - 💞️ My dream is to become a Software Engineer.
