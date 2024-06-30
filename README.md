@@ -4,9 +4,9 @@
 - 🌱 Also into Arduino language as well.
 - 🌱 I'm also leaning with PHP and SQL(Back End Developer).
 - 🌱 I’m currently learning python. 
-- 💞️ My dream is to become a Software Engineer.
+- 💞️ My dream is to become a Software Developer.
 - 💞️ I’m looking to collaborate on  working with the best programmers and will help me in the course of acquiring my goals.
-- 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com / juliusmcbrahamsomuahpb@yahoo.com or WhatsApp number: (+233) 596 393 645.
+- 📫 How to reach me is through my Email: juliusmcbrahamsomuah@gmail.com / juliusmcbrahamsomuahpb@yahoo.com or WhatsApp number: (+233) 533 351 767.
 
 <!---
 khophisnow/khophisnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
