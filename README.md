@@ -14,8 +14,8 @@ Hey there! I'm a curious and driven individual currently diving deep into the wo
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, PHP/Laravel, HTML/CSS
-- **Frameworks & Libraries**: React, Node.js, Bootstrap, jQuery
+- **Languages**: JavaScript, PHP, HTML/CSS
+- **Frameworks & Libraries**: React, Node.js, Bootstrap, jQuery, Laravel
 - **Databases**: MySQL
 - **Cyber Tools**: Nmap, Wireshark, Metasploit (beginner), Kali Linux, Burp Suite
 - **Hardware & STEM**: Arduino, Sensors, Basic Electronics
